@@ -61,7 +61,7 @@ Previously, the process was manual and time-consuming. The new system will reduc
 # 📝 Use Cases
 
 ### 📅 1. Employee Submits Vacation Request
-- [Flowchart](Docs/use-cases/employee-request-vacation/Flowchart.png).
+- [Flowchart](Docs/use-cases/employee-request-vacation/EmpNewRequestFlowchart.png).
 - [Sequence Diagram](docs/use-cases/employee-request-vacation/sequence-diagram.png)
 - [State Machine Diagram](docs/use-cases/employee-request-vacation/state-machine.png)
 - [Pseudocode](docs/use-cases/employee-request-vacation/pseudocode.md)
